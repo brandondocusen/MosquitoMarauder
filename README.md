@@ -1,4 +1,4 @@
-# TheMosquitoMarauder
+# The Mosquito Marauder
 This is an ongoing work in progress to autonomously detect, physically track and kill mosquitos.
 
 My wife and children hate mosquitos and are terrorized by them. This project *aims* to...
@@ -13,3 +13,4 @@ My wife and children hate mosquitos and are terrorized by them. This project *ai
 8) (COMPLETE) Reset and contiue scanning room
 
 I started this project on June 14, 2021. Progress has been faster than expected as of July 26, 2021
+The languages used here include Python, C# and the Arduino IDE
