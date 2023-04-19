@@ -1,4 +1,4 @@
-# TheSkeeterTerminator
+# TheMosquitoMarauder
 This is an ongoing work in progress to autonomously detect, physically track and kill mosquitos.
 
 My wife and children hate mosquitos and are terrorized by them. This project *aims* to...
