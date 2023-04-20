@@ -2,6 +2,8 @@
 This is an ongoing work in progress to autonomously detect, physically track and kill mosquitos.
 
 My wife and children hate mosquitos and are terrorized by them. This project *aims* to...
+I masked 4,000 unique photos of mosquitos over sixteen hours to train the object detection.
+
 
 1) (COMPLETE) Create object recognition weights to detect mosquitos with a 4k camera using YOLOv5
 2) (COMPLETE) Send relative mosquito coordinates to Arduino Uno R3
