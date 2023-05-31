@@ -14,7 +14,7 @@ This project *aims* to...
 7) (NOT STARTED) Save feed of each event to cloud for review
 8) (COMPLETE) Reset and contiue scanning room
 
-I started this project on June 14, 2021. Progress has been faster than expected as of July 26, 2021
+I started this project in November, 2020. Progress has been faster than expected as of July 26, 2021
 The languages used here include Python, C# and the Arduino IDE
 
 Edit May 05, 2023: Minification became a priority for this project. Carrying around a laptop in order to deploy this is not the best implimentation. I have a great path toward minification that will require some refactoring. This project is not the priority right now, but I plan to come back to it.
