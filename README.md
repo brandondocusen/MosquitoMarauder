@@ -15,6 +15,6 @@ This project *aims* to...
 8) (COMPLETE) Reset and contiue scanning room
 
 I started this project in November, 2020. Progress has been faster than expected as of July 26, 2021.
-The languages used here include Python, C# and the Arduino IDE
+The languages used here include Python, C#, C and uses the Arduino IDE
 
 Edit May 05, 2023: Minification became a priority for this project. Carrying around a laptop in order to deploy this is not the best implimentation. I have a great path toward minification that will require some refactoring. This project is not the priority right now, but I plan to come back to it.
